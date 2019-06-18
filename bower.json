@@ -1,0 +1,27 @@
+{
+  "name": "purescript-subcategory",
+  "homepage": "https://github.com/matthew-hilty/purescript-subcategory",
+  "authors": [
+    "Matthew Hilty <hilty.matthew+purescript@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthew-hilty/purescript-subcategory.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-profunctor": "^4.0.0",
+    "purescript-proxy": "^3.0.0",
+    "purescript-record": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}

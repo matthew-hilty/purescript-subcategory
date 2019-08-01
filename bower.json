@@ -19,7 +19,8 @@
     "purescript-prelude": "^4.1.0",
     "purescript-profunctor": "^4.0.0",
     "purescript-proxy": "^3.0.0",
-    "purescript-record": "^2.0.0"
+    "purescript-record": "^2.0.0",
+    "purescript-typelevel-prelude": "^5.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
